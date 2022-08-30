@@ -1,0 +1,5 @@
+# ninja log v5
+2	98	6831482811511823	CMakeFiles/newhello.dir/main.c.obj	7a48690d75522af7
+98	201	6831482812510161	newhello.exe	9d9cd15f3b51e1d6
+1	110	6831492138864943	CMakeFiles/newhello.dir/main.c.obj	7a48690d75522af7
+111	220	6831492139901974	newhello.exe	9d9cd15f3b51e1d6

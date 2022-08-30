@@ -1,0 +1,3 @@
+C:/Users/Hazem/CLionProjects/floats and doubles/cmake-build-debug/CMakeFiles/floats_and_doubles.dir
+C:/Users/Hazem/CLionProjects/floats and doubles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hazem/CLionProjects/floats and doubles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

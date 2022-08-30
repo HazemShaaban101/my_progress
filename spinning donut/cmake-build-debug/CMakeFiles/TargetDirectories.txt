@@ -1,0 +1,3 @@
+C:/Users/Hazem/CLionProjects/spinning donut/cmake-build-debug/CMakeFiles/spinning_donut.dir
+C:/Users/Hazem/CLionProjects/spinning donut/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hazem/CLionProjects/spinning donut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
