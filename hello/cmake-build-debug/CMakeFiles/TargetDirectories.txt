@@ -1,3 +1,0 @@
-C:/Users/Hazem/CLionProjects/hello/cmake-build-debug/CMakeFiles/hello.dir
-C:/Users/Hazem/CLionProjects/hello/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Hazem/CLionProjects/hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
