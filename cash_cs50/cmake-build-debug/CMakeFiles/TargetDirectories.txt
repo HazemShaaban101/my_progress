@@ -1,0 +1,3 @@
+C:/Users/Hazem/CLionProjects/cash_cs50/cmake-build-debug/CMakeFiles/cash_cs50.dir
+C:/Users/Hazem/CLionProjects/cash_cs50/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hazem/CLionProjects/cash_cs50/cmake-build-debug/CMakeFiles/rebuild_cache.dir
