@@ -1,3 +1,0 @@
-C:/Users/Hazem/CLionProjects/credit/cmake-build-debug/CMakeFiles/credit.dir
-C:/Users/Hazem/CLionProjects/credit/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Hazem/CLionProjects/credit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
