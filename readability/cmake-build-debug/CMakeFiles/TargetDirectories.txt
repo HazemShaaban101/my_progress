@@ -1,3 +1,0 @@
-C:/Users/Hazem/CLionProjects/readability/cmake-build-debug/CMakeFiles/readability.dir
-C:/Users/Hazem/CLionProjects/readability/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Hazem/CLionProjects/readability/cmake-build-debug/CMakeFiles/rebuild_cache.dir
