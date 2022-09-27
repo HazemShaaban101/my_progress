@@ -3,4 +3,4 @@ project(readability C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(readability main.c)
+add_executable(readability readability.c)

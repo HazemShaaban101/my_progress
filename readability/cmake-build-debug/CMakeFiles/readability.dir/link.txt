@@ -1,0 +1,3 @@
+C:\CLion2022.1\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\readability.dir/objects.a
+C:\CLion2022.1\bin\mingw\bin\ar.exe qc CMakeFiles\readability.dir/objects.a @CMakeFiles\readability.dir\objects1.rsp
+C:\CLion2022.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\readability.dir/objects.a -Wl,--no-whole-archive -o readability.exe -Wl,--out-implib,libreadability.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\readability.dir\linklibs.rsp
