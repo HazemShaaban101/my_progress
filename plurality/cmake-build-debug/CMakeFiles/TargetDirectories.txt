@@ -1,0 +1,3 @@
+C:/Users/Hazem/CLionProjects/plurality/cmake-build-debug/CMakeFiles/plurality.dir
+C:/Users/Hazem/CLionProjects/plurality/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hazem/CLionProjects/plurality/cmake-build-debug/CMakeFiles/rebuild_cache.dir
