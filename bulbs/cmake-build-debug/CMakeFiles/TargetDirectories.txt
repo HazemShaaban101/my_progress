@@ -1,0 +1,3 @@
+C:/Users/Oreo/CLionProjects/bulbs/cmake-build-debug/CMakeFiles/bulbs.dir
+C:/Users/Oreo/CLionProjects/bulbs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Oreo/CLionProjects/bulbs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
