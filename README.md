@@ -1,0 +1,1 @@
+![automotive embedded pic](https://www.google.com/url?sa=i&url=http%3A%2F%2Fautomeet.blogspot.com%2F2016%2F02%2Fbackground-of-automotive-embedded.html&psig=AOvVaw2PxQMyuACZmzJRPlPRcr0e&ust=1713362289844000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiyiYzyxoUDFQAAAAAdAAAAABAJ)
