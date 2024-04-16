@@ -1,1 +1,0 @@
-![automotive embedded pic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIww2tGhNYX3-cM3D0AYAmLHX4yZcdZQqWggGHfuBazcZzxkkngIGhXwzPnJUGlBK0RYuGVr7oYtJsGPE8baxdW3if4HjFXZLnbVRXa5V35M3x06N1giwAeVi4MvACg6_tXGVbiEMXi08O/s320/trans-porsche+%25281%2529.jpg | width=1600 | height=1280)
